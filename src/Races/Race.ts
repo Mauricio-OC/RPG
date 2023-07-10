@@ -15,7 +15,7 @@ abstract class Race {
     return this._dexterity;
   }
 
-  static createRacesInstances(): number {
+  static createdRacesInstances(): number {
     throw new Error('Not implemented');
   }
 
